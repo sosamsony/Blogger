@@ -8,7 +8,8 @@ export const Footer = () => {
     <>
       <footer className='boxItems'>
         <div className='container flex'>
-          <p>Blogger - All right reserved - Design & Developed by Sosamson</p>
+          <p>Blogger - All right reserved - Design & Developed by <a href="https://sosamson.com" target = "_blank" 
+rel = "noopener noreferrer">Sosamson</a></p>
           <div className='social'>
             <BsFacebook className='icon' />
             <RiInstagramFill className='icon' />
